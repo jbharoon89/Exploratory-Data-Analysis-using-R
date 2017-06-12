@@ -282,7 +282,7 @@ ggcorrplot(corelation, hc.order = TRUE, outline.col = "white", method = "circle"
 
 **Comments(Correlations):**
 
-From the above observations, we can note that higher correlations regarding to the wine quality are noted in the following;
+From the above observations, we can note that higher correlations regarding to the wine quality are noted in  the following;
 
 * Alcohol
 * Sulphates
